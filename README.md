@@ -63,8 +63,8 @@ Student_Data_Processing/
 │   └── student-mat.csv
 │
 ├── notebooks/
-│   ├── student_data_analysis_english.ipynb
-│   └── student_data_analysis_spanish.ipynb
+│   ├── Student_Data_Processing_English.ipynb
+│   └── Student_Data_Processing_Spanish.ipynb
 │
 ├── README.md
 └── requirements.txt
